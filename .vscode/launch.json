@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Usuario/Documents/UP_2023_2/A&ED/Git/Circular-array",
-      "program": "c:/Users/Usuario/Documents/UP_2023_2/A&ED/Git/Circular-array/build/Debug/outDebug",
+      "cwd": "c:/Users/Usuario/Documents/UP_2023_2/A&ED/Git_AED/Estructuras-de-datos",
+      "program": "c:/Users/Usuario/Documents/UP_2023_2/A&ED/Git_AED/Estructuras-de-datos/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
