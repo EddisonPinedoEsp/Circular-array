@@ -66,7 +66,7 @@ class ForwardList {
                 throw "ForwardList: Indice invalido";
             }
             Node<T>* new_node = new Node<T>(value);
-            if (index == 0) { // Caso especial para insertar al principio
+            if (index == 0) {
                 new_node->next = head;
                 head = new_node;
             } else {
@@ -94,7 +94,7 @@ class ForwardList {
                 throw "ForwardList: Vacia";
             }
             T value_;
-            if (head->next == nullptr) { // Solo hay un elemento en la lista
+            if (head->next == nullptr) {
                 value_ = head->value;
                 delete head;
                 head = nullptr;
